@@ -21,7 +21,7 @@ repository               : "dhruthick/dhruthick.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpeg"
   name             : "Dhruthick Mohan"
   pronouns         : "he/him"  
   bio              : "CSE Grad Student @ UC San Diego"
