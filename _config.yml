@@ -22,13 +22,13 @@ repository               : "dhruthick/dhruthick.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Dhruthick Mohan"
+  pronouns         : "he/him"  
+  bio              : "CSE Grad Student @ UC San Diego"
+  location         : "San Diego, California"
+  employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dhruthick1215.m@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
