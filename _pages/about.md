@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dhruthick Mohan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hi, I'm Dhruthick, I'm a second year graduate student at UC San Diego pursuing a Master's Degree in Computer Science. I have close to two years of hands-on experience in data science, particularly in analyzing high-volume smart city data across various domains, I have a solid foundation in Python, Java, SQL, and frameworks like PySpark, TensorFlow, PyTorch, and SciKit.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I've worked on projects involving traffic modeling, air quality analysis, music recommendation, and more. Now, specializing in AI and Data Science at UC San Deigo, my focus has evolved towards recommender systems, NLP, fairness in AI, and AI's role in healthcare, disaster management, and streaming services.
+
+I am actively seeking full time opportunities starting in June 2024. My interests lie in Machine Learning, MLOps, Data Science, and Data Analytics.
+
 
 A data-driven personal website
 ======
